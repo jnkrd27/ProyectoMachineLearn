@@ -24,4 +24,4 @@ El analisis inicial en nuestro Dataset consinte en dos partes
 **1.** Comprender el conjunto de datos en la informacion predicha por el Dataset
  
 **2.** Comprender visualmente la relacion que se tiene entre cada variable independiente dividiendo la informacion en las variables dependientes 
-[Notebook]()
+[Notebook](https://github.com/jnkrd27/ProyectoMachineLearn/blob/main/Analisis_Exploratorio.ipynb)
